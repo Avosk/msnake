@@ -26,6 +26,7 @@ const getApplePosition = () => {
 	return position;
 }
 
+
 const getRandomPosition = () =>{
 	const availablePositions = [];
 	rows.forEach((row, rowIndex)=>{
